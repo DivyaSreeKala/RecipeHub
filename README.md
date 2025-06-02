@@ -11,6 +11,7 @@
 - [React](https://reactjs.org/)
 - [Material UI](https://mui.com/)
 - [Bootstrap](https://getbootstrap.com/)
+  
 -[ReactRouter](https://reactrouter.co)
 - [Axios](https://axios-http.com/)
 
@@ -28,6 +29,7 @@
 1. Clone the repository:
    
 https://github.com/DivyaSreeKala/RecipeHub.git
+
 cd RecipeHub
 
 2. Install dependencies
