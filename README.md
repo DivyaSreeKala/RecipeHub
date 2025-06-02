@@ -31,15 +31,15 @@ https://github.com/DivyaSreeKala/RecipeHub.git
 cd RecipeHub
 
 2. Install dependencies
-3. 
+   
 npm install
-# or
+ or
 yarn install
 
 3. Start the development server:
 
 npm run dev
-# or
+ or
 yarn dev
 
 The app should now be running at http://localhost:5173
