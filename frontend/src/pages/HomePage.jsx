@@ -72,7 +72,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
               setRandom(response.data.meals)
               console.log(response.data.meals)
       }
-      // getPopularRecipes();
+      getPopularRecipes();
       }catch(err) {
         console.log(err)
       }
